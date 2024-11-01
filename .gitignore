@@ -1,0 +1,16 @@
+/agent/venv/
+/agent/src/blaze-d28fb-888da8e9564c.json
+/discord_bot/node_modules/
+/discord_bot/src/.env
+# Ignore operating system files
+/.DS_Store
+/Thumbs.db
+
+# Ignore IDE and editor files
+/.idea/
+/.vscode/
+/.atom/
+
+# Ignore logs and temporary files
+/*.log
+/*.tmp
